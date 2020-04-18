@@ -1,4 +1,4 @@
-<h3>Hola {{ TWebVersion() }} </h3>
+<h3>Version {{ TWebVersion() }} </h3>
 
 
 	<?prg
